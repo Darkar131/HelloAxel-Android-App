@@ -1,5 +1,8 @@
 "# HelloAxel-Android-App" 
 
+<a href="https://imgflip.com/gif/2i14s7"><img src="https://i.imgflip.com/2i14s7.gif" title="made at imgflip.com"/></a>
+
+
 Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
 - [X] 2. User see's custom background color.
