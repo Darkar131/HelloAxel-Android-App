@@ -1,4 +1,5 @@
 "# HelloAxel-Android-App" 
+!!SIDE NOTE: The Emulator from Android Studio did not work for me since Intel Accelerator does not support AMD
 
 <a href="https://imgflip.com/gif/2i14s7"><img src="https://i.imgflip.com/2i14s7.gif" title="made at imgflip.com"/></a>
 
