@@ -1,5 +1,6 @@
 "# HelloAxel-Android-App" 
 !!SIDE NOTE: The Emulator from Android Studio did not work for me since Intel Accelerator does not support AMD
+Therefore, my option was to do it live with my samsung S7 phone and work successfully. Ofcourse, using another computer/latop could give me a clean view.
 
 <a href="https://imgflip.com/gif/2i14s7"><img src="https://i.imgflip.com/2i14s7.gif" title="made at imgflip.com"/></a>
 
